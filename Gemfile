@@ -70,3 +70,4 @@ gem "haml-rails"
 gem 'pagy'
 gem "awesome_print"
 gem "typhoeus"
+gem 'jsonapi-serializer'
